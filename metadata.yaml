@@ -1,0 +1,28 @@
+_repo: The-American-Occupation-of-the-Philippines-1898-1912_36542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blount, James H. (James Henderson)
+    alias: Blount, James Henderson
+    birthdate: 1869
+    deathdate: 1918
+    gutenberg_agent_id: '38339'
+    url: http://www.gutenberg.org/2009/agents/38339
+description: ''
+gutenberg_issued: '2011-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Philippines -- Politics and government -- 1898-1935'
+- !lcsh 'Philippines -- History -- 1898-1946'
+title: The American Occupation of the Philippines 1898-1912
+url: http://www.gutenberg.org/ebooks/36542
